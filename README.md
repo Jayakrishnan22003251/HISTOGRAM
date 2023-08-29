@@ -162,6 +162,16 @@ cv2.destroyAllWindows()
 
 ![M](https://github.com/Jayakrishnan22003251/HISTOGRAM/assets/120232371/721fc17c-6ce9-4d71-9609-9562ff6f80a8)
 
+### Conversion of color Image to Grayscale image
+
+![equalized color](https://github.com/Jayakrishnan22003251/HISTOGRAM/assets/120232371/21c66105-6709-44f0-8859-c1c85198c7e4)
+
+### Histogram of Converted Grayscale Image
+
+![Screenshot from 2023-08-29 21-57-51](https://github.com/Jayakrishnan22003251/HISTOGRAM/assets/120232371/2159f115-e1a9-4192-9b75-07c5dda9e9a7)
+
+
+
 ### Histogram of Color Image
 ![color histogram](https://github.com/Jayakrishnan22003251/HISTOGRAM/assets/120232371/f2337200-449c-4bc7-b259-e048c41fbbec)
 
